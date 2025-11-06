@@ -13,3 +13,7 @@
 |--------------------|-------------|--------------------------------------|
 | Mikhail Senatorov  | 300407626   | senatorovm@student.douglascollege.ca |
 | Thanh Nguyen       | 300372799   | nguyenquangthanh1800@gmail.com       |
+
+
+## ✅ User Study 2 - Prototype Evaluation Survey
+[Click me to compleate the survey](https://forms.gle/qnBevKLVkkb27z9VA)
