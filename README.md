@@ -17,6 +17,7 @@
 
 ## ✅ User Study 2 - Prototype Evaluation Survey
 [Click me to compleate the survey](https://forms.gle/qnBevKLVkkb27z9VA)
+([Prototype for User Study](https://www.figma.com/proto/l5gClkgsiukiRp5IPsEMRX/F25_3375_S4_G3_CanadaOnlineTutoring?node-id=0-1&t=M4jwUSY1MVB2mghf-1))
 
 ## 📱 Figma prototype - Link to Prototype on Figma
 [Click to see figma prototype](https://www.figma.com/design/l5gClkgsiukiRp5IPsEMRX/F25_3375_S4_G3_CanadaOnlineTutoring?node-id=0-1&t=LSI2hLeeTtUDzG0q-1)
