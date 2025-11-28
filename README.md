@@ -27,3 +27,6 @@
 
 ## 💽 User Flow - Diagram
 [Click here to see user flow diagram](https://www.figma.com/board/Z5tPa0bjytYRGmDGClSjtu/User-Flow-Diagram?node-id=0-1&t=fq6pIWo8CYFS6RAJ-1)
+
+## 🎯 Canva - Presentation
+[Click here to start Presentation](https://www.canva.com/design/DAG59G3ZHNM/G4NL7GAWIPJXtPT9X0CoIw/edit?ui=eyJBIjp7fX0)
